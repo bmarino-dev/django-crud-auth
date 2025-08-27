@@ -15,6 +15,7 @@ Este es un proyecto web desarrollado con el framework **Django** que implementa 
 - Python 3.x
 - Django 3.x 
 - SQLite3
+- HTML
 
 ## ▶️ Cómo ejecutar el proyecto
 1.  Clona este repositorio en tu máquina local.
