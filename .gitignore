@@ -3,3 +3,5 @@ db.sqlite3
 tasks/__pycache__/
 tasks/migrations/__pycache__/
 djangocrud/__pycache__/
+djangocrud/.env
+venv

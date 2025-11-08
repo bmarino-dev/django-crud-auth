@@ -29,8 +29,8 @@ Este es un proyecto web desarrollado con el framework **Django** que implementa 
     source venv/bin/activate
     ```
 4.  Instala las dependencias del proyecto:
-    ```bash
-    pip install django
+    ```
+    pip install -r requirements.txt
     ```
 5.  Aplica las migraciones de la base de datos para crear las tablas necesarias:
     ```bash
